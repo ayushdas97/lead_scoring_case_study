@@ -9,8 +9,8 @@ This project focuses on building a Leads Conversion Classification System for X 
 
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels  
-- **Dataset:** `Leads.csv` (attached)  
-- **Dataset Description:** `Leads Data Dictionary.xlsx` (attached)  
+- **Dataset:** `Data.csv` (attached)  
+- **Dataset Description:** `Data_Dictionary.xlsx` (attached)  
 - **Model Used:** Logistic Regression
 
 ## 🔍 Exploratory Data Analysis (EDA)
