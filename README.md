@@ -62,7 +62,7 @@ This project focuses on building a Leads Conversion Classification System for X 
 | `Lead Scoring Case Study.ipynb`         | Complete study processes in Jupyter with Python |
 | `Lead Scoring Case Study Presentation.pdf` | Case study with visualizations and business insights |
 | `README.md`                             | Project documentation                          |
-| 'Assignment Subjective Questions'       | Solved Questions                               |
+| 'Assignment Subjective Questions.pdf'       | Solved Questions                               |
 
 
 ## 📢 Credits & References
