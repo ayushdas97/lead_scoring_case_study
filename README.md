@@ -44,7 +44,7 @@ This project focuses on building a Leads Conversion Classification System for X 
 ## 🛠 How to Run
 **Clone the repository:**
    ```bash
-   git clone <https://github.com/ayushdas97/lead_scoring_case_study/edit/main/>
+   git clone <https://github.com/ayushdas97/lead_scoring_case_study.git>
 ```
 ## 📈 Future Improvements
 
